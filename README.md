@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Antonii
 
 <a href="https://www.linkedin.com/in/antonii-viazovskyi-6763672aa/" target="_blank" >
-      <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="40" alt="linkedin" />
+      <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="400" alt="linkedin" />
     </a>
 
 
