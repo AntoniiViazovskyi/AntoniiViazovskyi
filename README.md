@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Antonii
 
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1)
+
 
 # Summary:
 
