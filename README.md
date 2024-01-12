@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Antonii
 
-<iframe src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1">via GIPHY</a></p>
+![MasterHead](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
 
 # Summary:
