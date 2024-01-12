@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Antonii
-
-<a href="https://www.linkedin.com/in/antonii-viazovskyi-6763672aa/" target="_blank">
+<style>
+      a <
+      width: "100%"
+      >
+<a href="https://www.linkedin.com/in/antonii-viazovskyi-6763672aa/" target="_blank" >
       <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="40" height="40" alt="linkedin" />
     </a>
+      </style>
 
 # Summary:
 
