@@ -9,7 +9,7 @@ I'm 26 years old, and I have been involved in development for the past 8 months.
 💻 I consider myself a responsible, proactive, and pleasant individual. </br>
 😊 I have a strong passion for knowledge and a great enthusiasm for learning something new, can`t stay in 1 place. 🌟
 
- [![Telegram Badge](https://img.shields.io/badge/-MagisterUnivers-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AntoniiViazovskyi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sentynel2014@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-AntoniiViazovskyi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AntoniiViazovskyi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sentynel2014@gmail.com)
 
 # 🤝 Socials:
 
