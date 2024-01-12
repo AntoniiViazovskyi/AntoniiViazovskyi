@@ -34,10 +34,9 @@ I'm 26 years old, and I have been involved in development for the past 8 months.
 ## Languages and Frameworks:
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![IntelijIdea](https://img.shields.io/badge/IntelliJ%20Idea-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Utils:
 
-
+![IntelijIdea](https://img.shields.io/badge/IntelliJ%20Idea-%23000000?style=for-the-badge&logo=intelliJIDEA&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
